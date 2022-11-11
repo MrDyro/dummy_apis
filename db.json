@@ -1,16 +1,18 @@
-[
-    {
-        "name": "Volkmar",
-        "id": "1",
-        "table": "tisch1",
-        "room": "Wohnzimmer",
-        "hasCall": "false"
-    },
-    {
-        "name": "Krisztian",
-        "id": "2",
-        "table": "tisch2",
-        "room": "Telefonzelle",
-        "hasCall": "true"
-    }
-]
+{
+    "users": [
+        {
+            "name": "Volkmar",
+            "id": "1",
+            "table": "tisch1",
+            "room": "Wohnzimmer",
+            "hasCall": "false"
+        },
+        {
+            "name": "Krisztian",
+            "id": "2",
+            "table": "tisch2",
+            "room": "Telefonzelle",
+            "hasCall": "true"
+        }
+    ]
+}
